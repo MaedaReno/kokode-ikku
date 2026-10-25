@@ -1,0 +1,9 @@
+{
+  "name": "ここで一句",
+  "short_name": "ここで一句",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#15120e",
+  "theme_color": "#15120e",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
